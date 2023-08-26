@@ -1,0 +1,40 @@
+h1{
+    font-size: 40px;
+    font-style: italic;
+    color: blue;
+    
+
+}
+h3{
+    text-decoration:underline;
+    text-decoration-style:wavy;
+   text-decoration-color:brown;
+   text-decoration-thickness:1px;
+   text-align:justify;
+   text-align-last:left;
+   line-height:1.5;
+   white-space:normal;
+  
+  font-family:  'Bricolage Grotesque', sans-serif;
+  
+   
+}
+h4{
+
+
+
+    
+}
+h6{
+    white-space:1px;
+    line-height:2px;
+    text-decoration:underline;
+    text-decoration-style:double;
+    text-decoration-color:blueviolet
+}
+
+
+
+
+
+
